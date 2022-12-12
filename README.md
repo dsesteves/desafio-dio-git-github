@@ -1,6 +1,8 @@
 # Desafio DIO Git e GitHub
-O foco deste desafio é criar e alimentar este novo repositório, testando os conhecimentos adquiridos no bootcamp.
+O foco deste desafio é criar e alimentar este novo repositório, testando os conhecimentos adquiridos neste Bootcamp.
 Desde já grato aos professores do curso.
+
+
 
 
 ## Links Úteis:
