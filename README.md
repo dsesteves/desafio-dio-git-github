@@ -1,2 +1,8 @@
-# desafio-dio-git-github
-Desafio DIO para uso dos primeiros conhecimentos em Git e GitHub
+# Desafio DIO Git e GitHub
+O foco deste desafio é criar e alimentar este novo repositório, testando os conhecimentos adquiridos no bootcamp.
+Desde já grato aos professores do curso.
+
+
+## Links Úteis:
+[Behance Diego Esteves](https://www.behance.net/diegosesteves)
+<br>[LinkedIn Diego Esteves](https://www.linkedin.com/in/diegosesteves/)
