@@ -1,0 +1,2 @@
+Códigos e Informações úteis referentes ao Git e GitHub aprendidos nas aulas assistidas pela DIO:
+[Evernote Notas sobre Git e GitHub](https://www.evernote.com/shard/s529/sh/64d0d8ca-45ed-19dd-f9cc-bebeb098e316/8f81e1298f0c360a261212a47b5fa7a1)
